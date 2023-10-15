@@ -18,6 +18,7 @@ namespace opo_backend
     {
         public Startup(IConfiguration configuration)
         { 
+
             Configuration = configuration;
         }
 
