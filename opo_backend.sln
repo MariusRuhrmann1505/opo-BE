@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opo_backend", "opo_backend.csproj", "{FEB826E0-C40E-4CC2-ABC9-013CFD8D63AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB826E0-C40E-4CC2-ABC9-013CFD8D63AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB826E0-C40E-4CC2-ABC9-013CFD8D63AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB826E0-C40E-4CC2-ABC9-013CFD8D63AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB826E0-C40E-4CC2-ABC9-013CFD8D63AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B460DB-27B8-40AC-A7D4-A87CD43DDF96}
+	EndGlobalSection
+EndGlobal
